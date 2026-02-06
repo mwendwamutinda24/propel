@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #00529B;       /* Headers, primary buttons, key differentiators */
+  --color-secondary: #007A87;     /* Secondary elements, progress indicators */
+  --color-accent: #DC5032;        /* Highlights, warnings, critical information */
+  --color-light-gray: #F5F5F5;    /* Backgrounds, inactive states */
+  --color-mid-gray: #C8C8C8;      /* Borders, dividers */
+  --color-dark-gray: #3C3C3C;     /* Body text */
+  --color-nav-bg: #ffffff;        /* Navigation background */
+  --color-nav-text: #333333;      /* Navigation text */
+}
+:root {
+  --font-primary: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+
+  /* Base typography scale */
+  --font-size-base: 0.875rem;   /* 14px */
+  --line-height-base: 1.5;
+
+  /* Type scale */
+  --font-size-sm: 1rem;         /* 16px */
+  --font-size-md: 1.25rem;      /* 20px */
+  --font-size-lg: 1.5rem;       /* 24px */
+  --font-size-xl: 2rem;         /* 32px */
+}
