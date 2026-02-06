@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import LandingPage from './Pages/Product';
-import Header from './Components/Header'
+import Header from './components/Header'
 import { Routes, Route } from 'react-router-dom';
 import Experiments from './Pages/Experiment';
 import Results from './Pages/Results';
